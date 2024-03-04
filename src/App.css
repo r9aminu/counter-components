@@ -1,0 +1,21 @@
+button {
+  background-color: lightblue;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 0; 
+  display: block; 
+  width: auto; 
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.App {
+  display: flex;
+  height: 100vh; 
+  flex-direction: column; 
+  padding-left: 20px; 
+}
